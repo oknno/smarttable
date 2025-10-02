@@ -1,20 +1,19 @@
 # 🍽️ SmartTable – Sistema de Reservas e Pedidos Online
 
-Projeto acadêmico da disciplina **Sistemas Distribuídos e Mobile**.
+Projeto da disciplina **Sistemas Distribuídos e Mobile**.
 
-### 🎯 Objetivo
+### Ideia principal do projeto:
 
-Oferecer um sistema moderno de reservas e pedidos online para restaurantes,
-com backend em nuvem e integração com app mobile.
+Criar um sistema de reserva de mesas e realização de pedidos a distância para restaurantes.
 
-### 📦 Estrutura do Repositório
+### Estrutura do Repositório:
 
 - `/backend` → código Java (Spring Boot + Maven)
 - `/mobile` → código do aplicativo (Flutter/React Native)
 - `/tests` → coleções Postman e scripts de automação
 - `/docs` → documentos do projeto (PPT, TAP, relatórios)
 
-### 👥 Equipe
+### Integrantes da equipe:
 
 - Felipe Dos Santos
 - Felipe Andrade
@@ -22,9 +21,9 @@ com backend em nuvem e integração com app mobile.
 - Miguel Sampaio
 - Matheus Okano
 
-### 📌 Entregas
+### Entregas a serem feitas:
 
-- Slide 01 – TAP ✅
-- Slide 02 – Backend inicial ⏳
+- Slide 01 – TAP 
+- Slide 02 – Backend inicial 
 - Slide 03 – Microsserviços
 - Slide 04 – Testes e integração
